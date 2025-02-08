@@ -1,0 +1,11 @@
+{
+  "version": "0.8.0",
+  "notes": "Exhibit Presenter Plus - Beta",
+  "pub_date": "2025-02-08",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
