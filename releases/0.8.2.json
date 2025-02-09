@@ -1,0 +1,11 @@
+{
+  "version": "0.8.2",
+  "notes": "Exhibit Presenter Plus - Beta",
+  "pub_date": "2025-02-09T00:33:09Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUDA5bkdKUjlVZ1lZZ2diZDI2cDhvTm5BVytjSTVaQjQwQmZiRkxRY0F5UVpqRUd6aUEwRnNXNnR1SDlJNXVSaFRCNXY0WVlNUkZpYXphcWtvenF6WlZlUjZLWnk3QUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MDYxODc0CWZpbGU6RXhoaWJpdCBQcmVzZW50ZXIgUGx1c18wLjguMl94NjQtc2V0dXAuZXhlCk5td3poV29YeGQrMndvMTdNeWtpNGtXd3c1NTVoWXc2RlhBM1llOUU4RTJYZElab1FyRmJFSGU4cXVsd2M3Q0RTb2RBcXkwckx1RjQ4T3h5Q0NaZER3PT0K",
+      "url": "https://github.com/Kablunk/exhibit-presenter-plus-releases/releases/latest/download/Exhibit.Presenter.Plus-setup.exe"
+    }
+  }
+}

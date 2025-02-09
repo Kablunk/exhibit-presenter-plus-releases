@@ -1,11 +1,11 @@
 {
-  "version": "0.8.0",
+  "version": "0.8.3",
   "notes": "Exhibit Presenter Plus - Beta",
-  "pub_date": "2025-02-08T23:57:36Z",
+  "pub_date": "2025-02-09T00:34:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUDA5bkdKUjlVZ2YwcDZMdHQweDMvcWhya3B4WDZGbDZscnE4bjhHVXFWVnJBY254dDB0V0ZPN2dCTFgvRCtZTUd2OEVTckZEd0pzaUZnVVZpMU1tRG1UalE0YWJaVndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MDU4OTk0CWZpbGU6RXhoaWJpdCBQcmVzZW50ZXIgUGx1c18wLjguMF94NjQtc2V0dXAuZXhlCmovQWNMdUROU1lsYUlkUklMdVNxSml2UVNmclg4S3dGK1BMendJSWZ2MjNXRnFjTTVJb3Y5LzI4ckp6ZE91Q2pIT3FBZ3IreW5DUFpsWkw0bFRwZURnPT0K",
-      "url": "https://github.com/Kablunk/exhibit-presenter-plus-releases/releases/latest/download/Exhibit.Presenter.Plus_0.8.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUDA5bkdKUjlVZ2FsOUxuWG5XZlV6ZFJzaUVKa2I5OGZXdFpKNlhZQVBXVDdXa3FZUEZib2tXejY2TVI0R2JYSlNYMllNQVd0ZXhIZW45citKUytXRWNreXlqalBXd1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MDYyNjM1CWZpbGU6RXhoaWJpdCBQcmVzZW50ZXIgUGx1c18wLjguM194NjQtc2V0dXAuZXhlCkhzRXU2NzJxWTR4MU1tYWU0c3lINWtxR1JCWG44U3hxVmh0SVlZaCtOaGFIUEVEcTVQN2VjbEErSXRRdGpNT1Z3ZVlBSS9sR2dub2hzaDFsTW13dUJBPT0K",
+      "url": "https://github.com/Kablunk/exhibit-presenter-plus-releases/releases/latest/download/Exhibit.Presenter.Plus-setup.exe"
     }
   }
 }
